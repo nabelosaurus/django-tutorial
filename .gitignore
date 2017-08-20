@@ -104,3 +104,6 @@ ENV/
 
 # Sqlite
 db.sqlite3
+
+# macOS
+.DS_Store
